@@ -1,0 +1,15 @@
+{
+  "name": "sandbox-myth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "myth src/main.css dist/main.css"
+  },
+  "keywords": [],
+  "author": "yhorie <yuk.horie@gmail.com>",
+  "license": "MIT"
+}
